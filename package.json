@@ -1,0 +1,10 @@
+{
+  "name": "oops-consultation-booking",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Oops! consultation booking site and backend functions.",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0",
+    "resend": "^3.4.0"
+  }
+}
